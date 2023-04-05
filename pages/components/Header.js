@@ -17,7 +17,7 @@ function HomePage() {
               <h1>
                 {" "}
                 <a href="index.html">
-                  <span className="fa fa-free-code-camp"></span> Trip spot{" "}
+                  <span className="fa fa-free-code-camp"></span> Kwara Tour{" "}
                 </a>
               </h1>
             </div>
